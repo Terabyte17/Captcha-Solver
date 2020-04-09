@@ -1,3 +1,8 @@
+#This is the combined work of --
+#Yash Sahijwani
+#Ayush Kumar Shaw
+#Raghav Soni
+
 import cv2
 import os
 import segmentation as seg
